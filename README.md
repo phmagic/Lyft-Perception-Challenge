@@ -2,7 +2,7 @@
 
 ## Lyft Perception Challenge
 
-![Test video gif](https://media.giphy.com/media/2uIllN6ISzVhfA91Gh/giphy.gif)
+![Test video gif](img/mixed_test_video_output_10_50.gif)
 
 Goal:
 
